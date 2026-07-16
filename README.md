@@ -60,7 +60,7 @@ The first run downloads Maven (~10 MB) and all dependencies (~80 MB) — give it
 
 Once you see `Started UpiMeshApplication in X.XXX seconds`, open:
 
-**http://localhost:8080**
+**http://localhost:8081**
 
 You'll get a dark dashboard with everything you need to drive the demo.
 
